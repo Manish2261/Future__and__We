@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to Future__and__We
 
-You can use the [editor on GitHub](https://github.com/Manish2261/Manish-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## This is a Portfolio of Individual Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why the name Future__and__We?
+
 
 
 ### Jekyll Themes
