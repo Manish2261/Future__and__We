@@ -11,7 +11,7 @@ But now as i think, Data Science is all about our future as we are today itself 
 
 I believe that:
 
-## _Presence of Mind Indicates Degree of Actions_ ##
+>    **_Presence of Mind Indicates Degree of Actions_** 
 
 I want to contribute my part of work in building our future, Briefly I want to be the part of future where I will be significantly contributing for the betterment of our anthropological existence. 
 
