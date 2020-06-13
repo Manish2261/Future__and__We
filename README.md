@@ -11,7 +11,7 @@ My Mission:
 
 I believe that:
 
->          /"Presence of Mind Indicates Degree of Actions/"
+>          Presence of Mind Indicates Degree of Actions
 
 I want to contribute my part of work in building our future, Briefly I want to be the part of future where I will be significantly contributing
 for the betterment of our anthropological existence.
