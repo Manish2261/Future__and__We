@@ -16,11 +16,7 @@ for the betterment of our anthropological existence.
 
 ### About Me
 
-I am Manish, once I was reading a weekly blog from the Gate Notes where Mr. Bill Gates and Dr. Siddharth Mukherjee were discussing on the
-evolutionary deveopment of "Data Science and Ml" for treating the victims of "Cancers" and also for Infant Gene Editing which I read and got
-my Dot Connected as we say. Thus I was very inquisitive for being the part of our great future coming ahead and thus I crawlingly started 
-working towards it. But now during this pandemic, where I was also ablazed by it's grunt, decided to start once again, and thus now I am 
-working towards my long standing goal to be the part of future.
+I am Manish, once I was reading a weekly blog from the [Gate Notes](https://www.facebook.com/watch/?v=10154038228536961) where Mr. Bill Gates and Dr. Siddharth Mukherjee were discussing on theevolutionary deveopment of "Data Science and Ml" for treating the victims of "Cancers" and also for [Infant Gene Editing](https://www.amazon.in/Gene-Intimate-History-Siddhartha-Mukherjee-ebook/dp/B06XY1PDMV) which I read and got my Dot Connected as we say. Thus I was very inquisitive for being the part of our great future coming ahead and thus I crawlingly started working towards it. But now during this pandemic, where I was also ablazed by it's grunt, decided to start once again, and thus now I am working towards my long standing goal to be the part of future.
 
 I am a inquisitive, w.r.to my curiosity for finding the diamond out of the received info but highly credulous in taking bold and legitimate 
 decision required to improve the performance of systems under mine vigilance. I strongly beleive that if we could connect Data Science with 
